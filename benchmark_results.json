@@ -1,0 +1,33 @@
+{
+  "system": {
+    "gpu": {
+      "gpu_util_percent": 0,
+      "mem_used_MB": 148.0,
+      "mem_total_MB": 6144.0
+    },
+    "cpu": {
+      "cpu_percent": 11.2,
+      "ram_used_MB": 12875.87890625,
+      "ram_total_MB": 16109.1171875
+    }
+  },
+  "benchmarks": [
+    {
+      "backend": "pytorch",
+      "device": "cpu",
+      "latency_ms_mean": 84.14263248443604,
+      "latency_ms_p50": 63.669443130493164,
+      "latency_ms_p95": 180.24946451187134,
+      "fps": 11.88458181629831,
+      "num_iters": 50
+    },
+    {
+      "backend": "onnxruntime_cpu",
+      "latency_ms_mean": 28.80855083465576,
+      "latency_ms_p50": 28.62071990966797,
+      "latency_ms_p95": 31.00144863128662,
+      "fps": 34.71191611613563,
+      "num_iters": 50
+    }
+  ]
+}

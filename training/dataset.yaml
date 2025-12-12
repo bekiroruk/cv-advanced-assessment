@@ -1,0 +1,19 @@
+
+path: C:/Users/Bekir/Desktop/object-detection-api/datasets/coco8
+
+train: images/train
+val: images/val
+
+names:
+  0: person
+  1: bicycle
+  2: car
+  3: motorcycle
+  4: airplane
+  5: bus
+  6: train
+  7: truck
+
+# Dataset zaten indirildiği için gerek yok ama dursun istersen:
+download: https://ultralytics.com/assets/coco8.zip
+
