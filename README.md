@@ -247,5 +247,5 @@ pytest -q
 **Author:** Bekir Oruk
 **Role:** AI Field Application Engineer (Computer Vision) – Candidate
 
-```
+
 
