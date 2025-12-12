@@ -1,7 +1,3 @@
-Harika, içeriği profesyonel bir GitHub `README.md` standardına uygun hale getirdim. Kod bloklarını düzelttim, başlıkları hiyerarşik olarak düzenledim ve okunabilirliği artırmak için gerekli Markdown formatlarını (kalın yazı, kod vurguları, listeler) uyguladım.
-
-Aşağıdaki bloğu kopyalayıp doğrudan `README.md` dosyanıza yapıştırabilirsiniz.
-
 ````markdown
 # CV Advanced Assessment – Edge AI Video Analytics System
 
