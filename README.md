@@ -1,4 +1,8 @@
+Harika, içeriği profesyonel bir GitHub `README.md` standardına uygun hale getirdim. Kod bloklarını düzelttim, başlıkları hiyerarşik olarak düzenledim ve okunabilirliği artırmak için gerekli Markdown formatlarını (kalın yazı, kod vurguları, listeler) uyguladım.
 
+Aşağıdaki bloğu kopyalayıp doğrudan `README.md` dosyanıza yapıştırabilirsiniz.
+
+````markdown
 # CV Advanced Assessment – Edge AI Video Analytics System
 
 This repository implements an end-to-end **Edge AI Video Analytics pipeline** for the Dataguess AI FAE (Computer Vision) technical assessment. The goal is to simulate a realistic production-style workflow covering the entire lifecycle of a computer vision model from training to deployment.
@@ -16,7 +20,7 @@ This repository implements an end-to-end **Edge AI Video Analytics pipeline** fo
 
 ## 📂 Repository Structure
 
-
+```text
 cv-advanced-assessment/
 │
 ├── training/
@@ -62,6 +66,7 @@ cv-advanced-assessment/
 ├── benchmark_results.json       # Output of benchmark scripts
 ├── README.md                    # Project documentation
 └── report.pdf                   # Technical report
+````
 
 -----
 
