@@ -1,4 +1,4 @@
-````markdown
+
 # CV Advanced Assessment – Edge AI Video Analytics System
 
 This repository implements an end-to-end **Edge AI Video Analytics pipeline** for the Dataguess AI FAE (Computer Vision) technical assessment. The goal is to simulate a realistic production-style workflow covering the entire lifecycle of a computer vision model from training to deployment.
@@ -62,7 +62,6 @@ cv-advanced-assessment/
 ├── benchmark_results.json       # Output of benchmark scripts
 ├── README.md                    # Project documentation
 └── report.pdf                   # Technical report
-````
 
 -----
 
