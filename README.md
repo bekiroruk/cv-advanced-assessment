@@ -16,7 +16,7 @@ This repository implements an end-to-end **Edge AI Video Analytics pipeline** fo
 
 ## 📂 Repository Structure
 
-```text
+
 cv-advanced-assessment/
 │
 ├── training/
